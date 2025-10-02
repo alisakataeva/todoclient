@@ -1,8 +1,7 @@
 import Cookies from 'js-cookie'
     
 
-// const SERVER_BASE_PATH = `http://127.0.0.1:5000`
-const SERVER_BASE_PATH = `http://akataeva.pythonanywhere.com`
+const SERVER_BASE_PATH = `http://127.0.0.1:5000`
 const API_PATH = '/api'
 
 

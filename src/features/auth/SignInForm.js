@@ -43,6 +43,11 @@ export const SignInForm = () => {
 
   return (
     <div className="new-task">
+      <div className="admin-credentials">
+        <h3>admin credentials:</h3>
+        <p><strong>Login:</strong> admin</p>
+        <p><strong>Password:</strong> 123</p>
+      </div>
       {errorContent}
       <form className="form">
         <div className="field">

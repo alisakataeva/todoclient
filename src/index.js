@@ -5,7 +5,6 @@ import App from './App';
 import Signin from './Signin';
 import NewTask from './NewTask';
 import EditTask from './EditTask';
-import reportWebVitals from './reportWebVitals';
 import store from './store'
 import { Provider } from 'react-redux'
 import {

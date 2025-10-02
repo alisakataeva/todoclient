@@ -1,6 +1,6 @@
 import React from 'react'
 import { useNavigate } from "react-router-dom";
-import './App.css';
+// import './App.css';
 import Layout from './Layout'
 import { TasksList } from './features/tasks/TasksList'
 
